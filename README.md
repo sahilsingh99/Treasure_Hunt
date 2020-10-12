@@ -1,7 +1,7 @@
 # Treasure_Hunt
 Online Treasure Hunt.
 
-##Tech Used 
+## Tech Used 
 ````
 Node js 
 Express js
